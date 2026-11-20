@@ -1,7 +1,7 @@
 # TokenLedger-Mini Prepaid LLM Gateway
 
 
-## What am I building?
+## What is TokenLedger?
 
 I'm building a small version of a prepaid LLM gateway designed for businesses in India.
 The basic idea is simple: instead of managing separate API integrations and billing for different AI models, users can access multiple LLM providers through a single API and pay using a prepaid wallet.
